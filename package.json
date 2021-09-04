@@ -1,0 +1,22 @@
+{
+  "name": "java_template",
+  "version": "1.0.0",
+  "description": " This is template of Java syntaxes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamur030188/shablon_template.git"
+  },
+  "author": "Mamirjon Mamadaliev <mike030188@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamur030188/shablon_template/issues"
+  },
+  "homepage": "https://github.com/mamur030188/shablon_template#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
